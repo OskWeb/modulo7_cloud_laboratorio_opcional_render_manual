@@ -14,13 +14,14 @@ Pasos seguidos para el despliegue manual con Render:
 
 5. En render seguimos los siguientes pasos:
   - Pulsamos en web service
+    
     ![imagen](https://github.com/user-attachments/assets/09242490-a0d7-4f22-92f5-3c7995531282)
 
   - Elegimos el repo a desplegar
 
     ![imagen](https://github.com/user-attachments/assets/01d778ad-4ce2-415c-95be-4a18b9c79771)
 
-  - En la ventana de configuración seleccionados Node como lenguage, 'npm install' como build command, 'npm run mock-server' como start command ,region europea y el pan gratuito.
+  - En la ventana de configuración seleccionados Node como lenguage, 'npm install' como build command, 'npm run mock-server' como start command ,region europea y el plan gratuito.
     El resto lo dejamos por defecto:
 
     ![imagen](https://github.com/user-attachments/assets/087b7990-a743-40bc-819d-33c7b1fe3479)
