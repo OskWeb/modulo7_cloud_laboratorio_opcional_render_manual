@@ -31,8 +31,10 @@ app.get('/api/character/:id', (context) => {
 });
 
 app.put('/api/character/:id', async (context) => {
+  console.log('llamando a put...');
   const id = Number(context.req.param('id'));
   const character = await context.req.json();
+  // console.log('BD' + character);
   db.characters = db.characters.map((c) =>
     c.id === id ? { ...c, ...character } : c
   );

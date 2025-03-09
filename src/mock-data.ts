@@ -17,6 +17,7 @@ export const characters: Character[] = [
       url: 'https://rickandmortyapi.com/api/location/3',
     },
     image: 'https://rickandmortyapi.com/api/character/avatar/1.jpeg',
+    bestSentence: '',
     episode: [
       'https://rickandmortyapi.com/api/episode/1',
       'https://rickandmortyapi.com/api/episode/2',
@@ -89,6 +90,7 @@ export const characters: Character[] = [
       url: 'https://rickandmortyapi.com/api/location/3',
     },
     image: 'https://rickandmortyapi.com/api/character/avatar/2.jpeg',
+    bestSentence: '',
     episode: [
       'https://rickandmortyapi.com/api/episode/1',
       'https://rickandmortyapi.com/api/episode/2',
@@ -161,6 +163,7 @@ export const characters: Character[] = [
       url: 'https://rickandmortyapi.com/api/location/20',
     },
     image: 'https://rickandmortyapi.com/api/character/avatar/3.jpeg',
+    bestSentence: '',
     episode: [
       'https://rickandmortyapi.com/api/episode/6',
       'https://rickandmortyapi.com/api/episode/7',
@@ -224,6 +227,7 @@ export const characters: Character[] = [
       url: 'https://rickandmortyapi.com/api/location/20',
     },
     image: 'https://rickandmortyapi.com/api/character/avatar/4.jpeg',
+    bestSentence: '',
     episode: [
       'https://rickandmortyapi.com/api/episode/6',
       'https://rickandmortyapi.com/api/episode/7',
@@ -287,6 +291,7 @@ export const characters: Character[] = [
       url: 'https://rickandmortyapi.com/api/location/20',
     },
     image: 'https://rickandmortyapi.com/api/character/avatar/5.jpeg',
+    bestSentence: '',
     episode: [
       'https://rickandmortyapi.com/api/episode/6',
       'https://rickandmortyapi.com/api/episode/7',
